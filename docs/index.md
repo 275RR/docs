@@ -7,7 +7,6 @@ The app simplifies and/or automates the editor process of making changes to the 
 
 - [Burgenland Bunch](https://www.the-burgenland-bunch.org/)
 - [BB Editor Code](https://github.com/275RR/BB-Editor-V3)
-- [BB Editor Documentation](#)
 
 ### Old Way vs New Way
 
