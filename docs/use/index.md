@@ -1,7 +1,7 @@
 # Using BB Editor App
 
 !!! note "Quick Start"
-    This is a Quick Start guide for using the BB Editor app. See **`BB-Editor-V3-main/Read Me.rtf`** for detailed processes and workflows as an editor.
+    This is a Quick Start guide for using the BB Editor app. See **[Editor Process](details/)** for detailed processes and workflows as an editor.
 
     !!! note
         The BB Editor tabs are in the order of your workflow.
@@ -29,7 +29,7 @@
 </br>
 
 ![BB Editor Github Settings Image](../images/editorSettingsGithub.png){ loading=lazy }  
-!!! note
+!!! note "Note for GitHub Settings"
     Use SSH Format to connect to this repo on GitHub: </br>
     `git@github.com: <REPO_USERNAME>/<REPO_NAME>.git` </br>
     *You could upload this code under your own GitHub account.*

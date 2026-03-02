@@ -5,7 +5,7 @@
 The BB Editor v3 is a collection of tools all in one easy to use app.  
 The app simplifies and/or automates the editor process of making changes to the webpages on the BB website.
 
-- [Burgenland Bunch](https://www.the-burgenland-bunch.org/)
+- [The Burgenland Bunch](https://www.the-burgenland-bunch.org/)
 - [BB Editor Code](https://github.com/275RR/BB-Editor-V3)
 
 ### Old Way vs New Way

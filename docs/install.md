@@ -18,7 +18,7 @@
 
 ## 2. Install uv (Package Manager for Python)
 
-- open Powershell by right-clicking on Windows Start button then click Powershell or Terminal
+- open Powershell by right-clicking on Windows Start button then click **`Powershell or Terminal`**
 - copy/paste the code below into Powershell and press Enter
 
 ```powershell
@@ -43,7 +43,7 @@ powershell -ExecutionPolicy ByPass -c "irm https://astral.sh/uv/install.ps1 | ie
 
 1. find the full path to your **`BB-Editor-V3-main`** folder
     - using file explorer, navigate to your BB-Editor-V3-main folder
-    - click the file explorer URL bar, copy the full path to your BB-Editor-V3-main folder
+    - click the file explorer URL bar and copy the full path to your BB-Editor-V3-main folder
 
     ![File Explorer URL Bar](images/explorer1.png){ loading=lazy }
 
@@ -53,7 +53,7 @@ powershell -ExecutionPolicy ByPass -c "irm https://astral.sh/uv/install.ps1 | ie
 3. paste the full path to your BB-Editor-V3-main folder into PowerShell
     - type cd followed by a space
     - paste the full path to your bb editor folder
-    - put quote marks at start of full path and end of full path and press Enter
+    - put quote marks at the start of the full path and at the end of the full path and press Enter
     - see example below
 
     ```powershell
@@ -62,9 +62,11 @@ powershell -ExecutionPolicy ByPass -c "irm https://astral.sh/uv/install.ps1 | ie
 
 4. copy/paste the powershell command below into the terminal and press Enter
 
-```powershell
-powershell -ExecutionPolicy ByPass .\install-git.ps1
-```
+    ```powershell
+    powershell -ExecutionPolicy ByPass .\install-git.ps1
+    ```
+
+5. after Git installation is complete, you can close PowerShell/Terminal.
 
 ### Optional: Install Git manually
 
